@@ -1,0 +1,18 @@
+Podaci o platitelju: 
+Ime: iok
+Adresa: f
+IBAN: tg12345678900987654321
+
+Podaci o primatelju: 
+Ime: klo
+Adresa: popo
+IBAN: tg12345678900987654321
+
+Podaci o plaćanju: 
+Iznos: 9,8
+Valuta: GBP
+Model: 03
+Poziv na broj: 
+Opis: 
+Datum izvršenja: 30.5.2022.
+Datum uplate: 5.4.2022.

@@ -1,0 +1,15 @@
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\bin\Debug\net6.0\lab3_Csharp_Ivana_Čavka.exe
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\bin\Debug\net6.0\lab3_Csharp_Ivana_Čavka.deps.json
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\bin\Debug\net6.0\lab3_Csharp_Ivana_Čavka.runtimeconfig.json
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\bin\Debug\net6.0\lab3_Csharp_Ivana_Čavka.dll
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\bin\Debug\net6.0\lab3_Csharp_Ivana_Čavka.pdb
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\lab3_Csharp_Ivana_Čavka.csproj.AssemblyReference.cache
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\lab3_Csharp_Ivana_Čavka.GeneratedMSBuildEditorConfig.editorconfig
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\lab3_Csharp_Ivana_Čavka.AssemblyInfoInputs.cache
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\lab3_Csharp_Ivana_Čavka.AssemblyInfo.cs
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\lab3_Csharp_Ivana_Čavka.csproj.CoreCompileInputs.cache
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\lab3_Csharp_Ivana_Čavka.dll
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\refint\lab3_Csharp_Ivana_Čavka.dll
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\lab3_Csharp_Ivana_Čavka.pdb
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\lab3_Csharp_Ivana_Čavka.genruntimeconfig.cache
+C:\IT\programiranje u C#\lab3_Csharp_Ivana_Čavka\obj\Debug\net6.0\ref\lab3_Csharp_Ivana_Čavka.dll
